@@ -1,1 +1,3 @@
-console.log(" hi ");
+let nome = vitoria
+console.log("nome ")
+
